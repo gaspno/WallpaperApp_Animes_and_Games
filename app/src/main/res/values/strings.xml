@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Animes and Games Wallpapers</string>
+    <string name="menu1">Animes</string>
+    <string name="menu2">Games</string>
+    <string name="menu3">Classic Animes</string>
+    <string name="menu4">Classic Games</string>
+
+
+    <string name="cresditshome">S-concept https://mobile.alphacoders.com/authors/view/43079</string>
+    <string name="title_activity_wallpappers">ScrollingActivity</string>
+    <string name="tryAgain" translatable="false">no connection, try again?</string>
+    <string name="yes" translatable="false">yes</string>
+    <string name="no" translatable="false">no</string>
+    <string name="Avaliar">Rate This App</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_tab">tabActivity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="home" translatable="false">Home Scren</string>
+    <string name="lock" translatable="false">Lock Scren</string>
+    <string name="both" translatable="false">Both</string>
+    <string name="avaluation">Please consider an app rating</string>
+    <string name="negative">Not now</string>
+    <string name="moreapps">More Apps</string>
+    <string name="Download">Download</string>
+    <string name="nav_header_desc">Description</string>
+    <string name="nav_header_title">Title</string>
+    <string name="nav_header_subtitle">Subtitle</string>
+    <string name="navigation_drawer_open">open</string>
+    <string name="navigation_drawer_close">close</string>
+    <string name="menu5">Random</string>
+    <string name="menu6">Anime Images</string>
+    <string name="menu">Films</string>
+    <string name="Series">menu8</string>
+    <string name="menu7">Films</string>
+    <string name="menu8">Series</string>
+    <string name="menu9">kpop</string>
+</resources>

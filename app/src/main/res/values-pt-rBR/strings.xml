@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Animes and Games Wallpapers</string>
+    <string name="menu3">Animes Clássicos</string>
+    <string name="menu4">Jogos Clássicos</string>
+    <string name="tryAgain" translatable="false">sem conexão,tentar novamente?</string>
+    <string name="yes" translatable="false">sim</string>
+    <string name="no" translatable="false">não</string>
+    <string name="avaluation">Por favor ,considere avaliar o aplicativo</string>
+    <string name="negative">Agora não.</string>
+    <string name="moreapps">Mais Apps.</string>
+</resources>
